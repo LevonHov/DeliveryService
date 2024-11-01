@@ -1,0 +1,6 @@
+C:\Users\Levon\source\repos\DeliveryService\Delivery Service\bin\Debug\Delivery Service.exe
+C:\Users\Levon\source\repos\DeliveryService\Delivery Service\bin\Debug\Delivery Service.pdb
+C:\Users\Levon\source\repos\DeliveryService\Delivery Service\obj\Debug\Delivery Service.csproj.AssemblyReference.cache
+C:\Users\Levon\source\repos\DeliveryService\Delivery Service\obj\Debug\Delivery Service.csproj.CoreCompileInputs.cache
+C:\Users\Levon\source\repos\DeliveryService\Delivery Service\obj\Debug\Delivery Service.exe
+C:\Users\Levon\source\repos\DeliveryService\Delivery Service\obj\Debug\Delivery Service.pdb
